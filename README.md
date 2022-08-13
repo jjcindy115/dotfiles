@@ -12,7 +12,7 @@
 | WM  | [Bspwm](https://github.com/baskerville/bspwm.git)  |
 | text editor  | [nvim](https://neovim.io/)  |
 | Browser   | [firefox](https://www.mozilla.org/en-US/firefox/new/)  |
-| Wallpapers   | [Wallhaven.cc](https://github.com/dylanaraps/neofetch.git)  |
+| Wallpapers   | [Wallhaven.cc](https://wallhaven.cc/)  |
 | terminal   | urxvt |
 | Fetch  | [neofetch](https://github.com/dylanaraps/neofetch.git)  |
 | Discord   | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord.git)   |
