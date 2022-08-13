@@ -19,6 +19,9 @@ in between
 (if status is-interactive 
 cat ~./cache/wal/sequences & 
 end)
-like so and for discord I use betterdiscord with a pywal-discord
+like so and for discord I use betterdiscord with a pywal-discord theme from 
 https://github.com/FilipLitwora/pywal-discord
 it also gets changed on the fly by the pywal.sh
+NOTE I made the pywal.sh in a way that only changes the firefox and betterdiscord if the 
+color scheme is set sucessfully 
+idk why but sorry for the Extermelly bad README if you have any questions I am sorry but please ask them from r/unixporn community I am not fit to solve my own problems So yeah...
