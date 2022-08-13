@@ -16,8 +16,9 @@ For The Sake Of That I Will Include Links To All The Resources Possible
 | Discord   | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord.git)   |
 | Color Scheme   | [pywal](https://github.com/dylanaraps/pywal)  |
 | Compositor | [picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git.git) |
+| Discord-Theme | [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
-# Screenshots for eye-candy ;)
+# Screenshots for eye-candy 😙
 ![Screenshot1](https://user-images.githubusercontent.com/108634945/184496564-e45bb1cf-40bb-4178-bbc7-3163bdda3d36.png)![Screenshot2](https://user-images.githubusercontent.com/108634945/184496575-b99a505c-df28-42d7-93a7-2c7e8dd2fc37.png)![Screenshot3](https://user-images.githubusercontent.com/108634945/184496577-e247fdc1-5770-4f66-a9e6-f268e7f3cc2b.png)
 ![Screenshot4](https://user-images.githubusercontent.com/108634945/184496581-75d228c4-0512-4eda-8ed5-1e63146387e1.png)
 
