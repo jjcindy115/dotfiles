@@ -54,7 +54,7 @@ For the fish shell after installing cd into my dotsfiles and cp -r fish ~/.confi
 if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
 ### [NExt] <br />
 same For the neofetch after installing cd into my dotsfiles and cp -r neofetch ~/.config/ <br />
-## #[NExt] <br />
+## [NExt] <br />
 same For the picom after installing cd into my dotsfiles and cp -r picom  ~/.config/ <br />
 
  
