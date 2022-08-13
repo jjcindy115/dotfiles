@@ -7,7 +7,7 @@
 ## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 # Create A BACKUP 🙏🙏🙏🙏🙏🙏
 
-| What Is It    | What is used |
+| What Is It    | What is Used |
 | ------------- | ------------- |
 | WM  | [Bspwm](https://github.com/baskerville/bspwm.git)  |
 | text editor  | [nvim](https://neovim.io/)  |
