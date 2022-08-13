@@ -3,6 +3,7 @@ so for the things mentioned below Please refer to their manuals before starting 
 for the sake of that I will include links to all the resources possible
 
 # A Quick guide for Getting started with bspwm [PlEASE READ ME](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
+## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ...
 
 | What Is It    | What is used |
 | ------------- | ------------- |
