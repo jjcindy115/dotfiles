@@ -1,14 +1,20 @@
+Listen By no means I am Capable enough of creating a complete repo with every single detail Even when I want to I will try my best to no break your system with my README 
+so for the things mentioned below Please refer to their manuals before starting blindlly I myself Have experienced the pain from r/unixporn readme
+for the sake of that I will include links to all the resources possible
+
+## [A Quick guide for Getting started with bspwm](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 
 | What Is It    | What is used |
 | ------------- | ------------- |
-| WM  | Bspwm  |
-| text editor  | nvim  |
-| Browser   | firefox  |
-| Wallpapers   | Wallhaven.cc  |
+| WM  | [Bspwm](https://github.com/baskerville/bspwm.git)  |
+| text editor  | [nvim](https://neovim.io/)  |
+| Browser   | [firefox](https://www.mozilla.org/en-US/firefox/new/)  |
+| Wallpapers   | [Wallhaven.cc](https://github.com/dylanaraps/neofetch.git)  |
 | terminal   | urxvt |
-| Fetch  | neofetch  |
-| Discord   | BetterDiscord   |
-| Color Scheme   | pywal  |
+| Fetch  | [neofetch](https://github.com/dylanaraps/neofetch.git)  |
+| Discord   | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord.git)   |
+| Color Scheme   | [pywal](https://github.com/dylanaraps/pywal)  |
+| Compositor | ([picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git.git) |
 
 
 
