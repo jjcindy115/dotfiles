@@ -1,0 +1,85 @@
+# terminal emulator
+super + Return
+	urxvt
+
+# restart bspwm
+super + alt + r
+        bspc wm -r
+
+# pywal 
+super + p 
+	$HOME/.config/wal/pywal.sh
+# lockscreen
+super + l 
+    betterlockscreen -l dim
+
+# focus the next/previous window in the current desktop
+super + c
+        bspc node -f {next,prev}.local.!hidden.window
+
+# focus the next/previous desktop in the current monitor
+super + bracket{left,right}
+        bspc desktop -f {prev,next}.local
+
+
+# Window switcher
+super + Tab
+	bspc node -f last
+
+# Program launcher 
+super + @space
+	rofi -show run
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# close and kill
+super + {_,shift + }q
+	bspc node -{c,k}
+
+# Firefox
+super + w 
+	firefox
+
+# set the window state
+super + {t,,s,f}
+        bspc node -t {tiled,floating,fullscreen}
+
+# swap the current node and the biggest window
+super + g
+	bspc node -s biggest.window
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}' --follow
+
+# Preselect the direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# Preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + ctrl + space
+	bspc node -p cancel
+
+# Move a window to a preselected space 
+super  + m
+    bspc node -n last.!automatic
+
+# Rotate tree
+super + shift + {d,a}
+    bspc node @/ -C {forward,backward}
+
+# i3 like resizing
+alt + h
+    /bin/sh $HOME/.config/bspwm/resize/shrinkx.sh
+alt + l
+    /bin/sh $HOME/.config/bspwm/resize/expandx.sh
+alt + k
+    /bin/sh $HOME/.config/bspwm/resize/shrinky.sh
+alt + j
+    /bin/sh $HOME/.config/bspwm/resize/expandy.sh

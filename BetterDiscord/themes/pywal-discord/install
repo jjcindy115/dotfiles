@@ -1,0 +1,27 @@
+#! /bin/bash
+if [ ! ${EUID:-$(id -u)} -eq 0 ]
+then
+    echo 'You must be root to run this script'
+    exit 1
+fi
+
+installdir=/usr/share/pywal-discord
+
+unameOut="$(uname -s)"
+case "${unameOut}" in
+    Darwin*)    installdir=$HOME/.config/pywal-discord;;
+esac
+
+if [ -e $installdir ]
+then
+	rm -rf $installdir
+fi
+
+mkdir $installdir
+cp ./config/* $installdir
+if [ "${unameOut}" == "Darwin" ]
+then
+	cp ./pywal-discord /usr/local/bin
+else
+	cp ./pywal-discord /usr/bin/
+fi
