@@ -2,7 +2,7 @@ Listen By no means I am Capable enough of creating a complete repo with every si
 so for the things mentioned below Please refer to their manuals before starting blindlly I myself Have experienced the pain from r/unixporn readme
 for the sake of that I will include links to all the resources possible
 
-## [A Quick guide for Getting started with bspwm](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
+# A Quick guide for Getting started with bspwm [PlEASE READ ME](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 
 | What Is It    | What is used |
 | ------------- | ------------- |
