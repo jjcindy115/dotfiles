@@ -1,4 +1,8 @@
 ### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README. So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly. I Myself Have Experienced The Pain From r/unixporn README For The Sake Of That I Will Include Links To All The Resources Possible.
+### Before jumping in I wanna remind you that For this to work you either have to put Wallpapers (For which you want color schemes from) In   <br />
+### ~/Pictures/Pywal/ 
+### or either change the path for the wallpapers in <br /> 
+### ~/.config/wal/pywal.sh
 
 ## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 # Create A BACKUP 🙏🙏🙏🙏🙏🙏
@@ -28,7 +32,7 @@
 ![screenshot9](https://user-images.githubusercontent.com/108634945/184497386-0ae9e802-98e7-48aa-9811-e59d8c87cfa1.png)
 ![screenshot10](https://user-images.githubusercontent.com/108634945/184497387-641cf497-38a8-4a2a-8839-abc6a645cecd.png)
 
-### First Bspwm & sxhkd <br />
+## First Bspwm & sxhkd <br />
 Just copy and paste if you already have a Bspwm & sxhkd configs and or up and running if you don't <br />
 then <br />
 ### (Note: Do not copy the $) <br />
@@ -38,25 +42,31 @@ cd into my dotfiles and again cd into bspwm then <br />
 $ cp -r  bspwmrc resize ~/.config/bspwm <br />
 after that <br />
 edit the both of them to your liking mine has some minor changes and stuff if and everything is commented <br />
-### [NExt] <br />
+## [Pywal] <br />
 Install pywal with pip using (pip install pywal)  <br />
 after that cd into my dotsfiles and <br />
 $ cp -r wal ~/.config/ <br />
 ## [Important] <br />
 after that run this command <br />
 chmod +x ~/.config/wal/pywal.sh <br />
-## If you don't run it than the colors will never change on (super + p) <br />
-### [NExt] <br />
+### If you don't run it than the colors will never change on (super + p) <br />
+## [Fish] <br />
 cd again into my dots <br />
-## this time for the fish shell IF YOUR using bash which is default please refer to <br />
-### [Pywal for bash](https://itsfoss.com/pywal/) <br />
+### this time for the fish shell IF YOUR using bash which is default please refer to <br />
+## [Pywal for bash](https://itsfoss.com/pywal/) <br />
 For the fish shell after installing cd into my dotsfiles and cp -r fish ~/.config/ <br />
 if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
-### [NExt] <br />
+## [Neofetch] <br />
 same For the neofetch after installing cd into my dotsfiles and cp -r neofetch ~/.config/ <br />
-## [NExt] <br />
+## [Picom] <br />
 same For the picom after installing cd into my dotsfiles and cp -r picom  ~/.config/ <br />
+## [Firefox] <br />
+For Firefox Firstly get the pywalfox with (pip install pywalfox) then install using 
+$ pywalfox install <br />
+after that go get the [Pywalfox extenstion for Firefox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) <br />
+<br />
+## Last But not Least Press the shotcut (super + p) to check if everything works . :) <br />
 
- 
+
 I Really Hope you Would atleast have a working arch install <br />
 If not I'm sorry I guess ...... 🙇
