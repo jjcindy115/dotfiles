@@ -63,7 +63,7 @@ after that run this command <br />
 chmod +x ~/.config/wal/pywal.sh <br />
 ### If you don't run it than the colors will never change on (super + p) <br />
 ## [Fish] <br />
-$ sudo pacman -Syyu fish
+$ sudo pacman -Syyu fish <br />
 cd again into my dots <br />
 ### this time for the fish shell IF YOUR using bash which is default please refer to Pywal for Bash <br />
 For the fish shell after installing cd into my dotsfiles and cp -r fish ~/.config/ <br />
@@ -71,14 +71,14 @@ if you don't copy the whole folder than the annoying fish_greeting message and {
 ## [Pywal for Bash] <br />
 Visit This [arcticle](https://itsfoss.com/pywal/) <br />
 ## [Neofetch] <br />
-$ sudo pacman -Syyu neofetch
+$ sudo pacman -Syyu neofetch <br />
 same For the neofetch after installing cd into my dotsfiles and cp -r neofetch ~/.config/ <br />
 ## [Picom] <br />
-$ paru -S picom-ibhagwan-git
+$ paru -S picom-ibhagwan-git <br />
 same For the picom after installing cd into my dotsfiles and cp -r picom  ~/.config/ <br />
 ## [Firefox] <br />
-For Firefox Firstly get the pywalfox with (pip install pywalfox) then install using
-$pip install pywalfox <br />
+For Firefox Firstly get the pywalfox with (pip install pywalfox) then install using <br />
+$ pip install pywalfox <br />
 $ pywalfox install <br />
 after that go get the [Pywalfox extenstion for Firefox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) <br />
 <br />
