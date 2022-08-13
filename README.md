@@ -66,7 +66,8 @@ chmod +x ~/.config/wal/pywal.sh <br />
 $ sudo pacman -Syyu fish
 cd again into my dots <br />
 ### this time for the fish shell IF YOUR using bash which is default please refer to <br />
-## [Pywal for bash](https://itsfoss.com/pywal/) <br />
+## [Pywal for bash] <br />
+Visit This [arcticle](https://itsfoss.com/pywal/) <br />
 For the fish shell after installing cd into my dotsfiles and cp -r fish ~/.config/ <br />
 if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
 ## [Neofetch] <br />
