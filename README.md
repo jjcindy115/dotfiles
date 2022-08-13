@@ -9,6 +9,7 @@ Second.
 Pywalfox
 a dead-simple pip package to install (pip install pywalfox)
 and for the color schemes install the pywal fox extension 
+https://addons.mozilla.org/en-US/firefox/addon/pywalfox/
 And the colors should change on the fly
 Third.
 the fish shell I use the fish shell as my default shell and so the for the colors in fish shell 
