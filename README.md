@@ -2,7 +2,7 @@ Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Si
 So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly I Myself Have Experienced The Pain From r/unixporn README
 For The Sake Of That I Will Include Links To All The Resources Possible
 
-# A Quick guide for Getting started with bspwm [PlEASE READ ME](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
+# A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 ## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ... See the screenshots before moving furthur
 
 | What Is It    | What is used |
@@ -19,8 +19,17 @@ For The Sake Of That I Will Include Links To All The Resources Possible
 | Discord-Theme | [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
 # Screenshots for eye-candy 😙
-![Screenshot1](https://user-images.githubusercontent.com/108634945/184496564-e45bb1cf-40bb-4178-bbc7-3163bdda3d36.png)![Screenshot2](https://user-images.githubusercontent.com/108634945/184496575-b99a505c-df28-42d7-93a7-2c7e8dd2fc37.png)![Screenshot3](https://user-images.githubusercontent.com/108634945/184496577-e247fdc1-5770-4f66-a9e6-f268e7f3cc2b.png)
-![Screenshot4](https://user-images.githubusercontent.com/108634945/184496581-75d228c4-0512-4eda-8ed5-1e63146387e1.png)
+![Screenshot1](https://user-images.githubusercontent.com/108634945/184496564-e45bb1cf-40bb-4178-bbc7-3163bdda3d36.png)
+![Screenshot2](https://user-images.githubusercontent.com/108634945/184496575-b99a505c-df28-42d7-93a7-2c7e8dd2fc37.png)
+![Screenshot3](https://user-images.githubusercontent.com/108634945/184496577-e247fdc1-5770-4f66-a9e6-f268e7f3cc2b.png)
+![Screenshot4](https://user-images.githubusercontent.com/108634945/184497440-1c60b8fb-9086-4fa3-bde8-b7964e9db68b.png)
+![screenshot5](https://user-images.githubusercontent.com/108634945/184497499-8652182c-d5a2-48d0-a8e9-73e7882921a6.png)
+![screenshot6](https://user-images.githubusercontent.com/108634945/184497378-b53a66d7-6e3a-40d5-b35a-220dea770972.png)
+![screenshot7](https://user-images.githubusercontent.com/108634945/184497381-ec8dd108-99bc-442c-9e11-849496191bb8.png)
+![screenshot8](https://user-images.githubusercontent.com/108634945/184497384-0f8b9250-b161-48a7-86e0-755889069da1.png)
+![screenshot9](https://user-images.githubusercontent.com/108634945/184497386-0ae9e802-98e7-48aa-9811-e59d8c87cfa1.png)
+![screenshot10](https://user-images.githubusercontent.com/108634945/184497387-641cf497-38a8-4a2a-8839-abc6a645cecd.png)
+/184496581-75d228c4-0512-4eda-8ed5-1e63146387e1.png)
 
 
 
