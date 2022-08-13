@@ -1,9 +1,7 @@
-### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README 
-### So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly I Myself Have Experienced The Pain From r/unixporn README
-### For The Sake Of That I Will Include Links To All The Resources Possible
+### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README. So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly. I Myself Have Experienced The Pain From r/unixporn README For The Sake Of That I Will Include Links To All The Resources Possible.
 
 ## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
-## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ... See the screenshots before moving furthur
+# Create A BACKUP 🙏🙏🙏🙏🙏🙏
 
 | What Is It    | What is used |
 | ------------- | ------------- |
