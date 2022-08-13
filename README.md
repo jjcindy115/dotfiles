@@ -1,9 +1,9 @@
-Listen By no means I am Capable enough of creating a complete repo with every single detail Even when I want to I will try my best to no break your system with my README 
-so for the things mentioned below Please refer to their manuals before starting blindlly I myself Have experienced the pain from r/unixporn readme
-for the sake of that I will include links to all the resources possible
+Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README 
+So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly I Myself Have Experienced The Pain From r/unixporn README
+For The Sake Of That I Will Include Links To All The Resources Possible
 
 # A Quick guide for Getting started with bspwm [PlEASE READ ME](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
-## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ...
+## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ... See the screenshots before moving furthur
 
 | What Is It    | What is used |
 | ------------- | ------------- |
@@ -15,7 +15,12 @@ for the sake of that I will include links to all the resources possible
 | Fetch  | [neofetch](https://github.com/dylanaraps/neofetch.git)  |
 | Discord   | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord.git)   |
 | Color Scheme   | [pywal](https://github.com/dylanaraps/pywal)  |
-| Compositor | ([picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git.git) |
+| Compositor | [picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git.git) |
+
+# Screenshots for eye-candy ;)
+![Screenshot1](https://user-images.githubusercontent.com/108634945/184496564-e45bb1cf-40bb-4178-bbc7-3163bdda3d36.png)![Screenshot2](https://user-images.githubusercontent.com/108634945/184496575-b99a505c-df28-42d7-93a7-2c7e8dd2fc37.png)![Screenshot3](https://user-images.githubusercontent.com/108634945/184496577-e247fdc1-5770-4f66-a9e6-f268e7f3cc2b.png)
+![Screenshot4](https://user-images.githubusercontent.com/108634945/184496581-75d228c4-0512-4eda-8ed5-1e63146387e1.png)
+
 
 
 
@@ -33,6 +38,7 @@ $ cp -r  bspwmrc resize ~/.config/bspwm <br />
 after that <br />
 edit the both of them to your liking mine has some minor changes and stuff if and everything is commented <br />
 [NExt] <br />
+
 Install pywal with pip using (pip install pywal)  <br />
 after that cd into my dotsfiles and <br />
 $ cp -r wal ~/.config/ <br />
@@ -50,3 +56,5 @@ if you don't copy the whole folder than the annoying fish_greeting message and {
 same For the neofetch after installing cd into my dotsfiles and cp -r neofetch ~/.config/ <br />
 [NExt] <br />
 same For the picom after installing cd into my dotsfiles and cp -r picom  ~/.config/ <br />
+
+ 
