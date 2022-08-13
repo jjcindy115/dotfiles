@@ -1,16 +1,12 @@
-<p align="center">
-
-    # RTFM [Read The Fucking Manual]
-
-</p>
-### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README. So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly. I Myself Have Experienced The Pain From r/unixporn README For The Sake Of That I Will Include Links To All The Resources Possible.
+# RTFM [Read The Fucking Manual] 🙏
+### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README. So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly. I Myself Have Experienced The Pain From r/unixporn README For The Sake Of That I Will Include Links To All The Resources Possible. <br /> 
 ### Before jumping in I wanna remind you that For this to work you either have to put Wallpapers (For which you want color schemes from) In   <br />
-### ~/Pictures/Pywal/ 
+### ~/Pictures/Pywal/  <br /> 
 ### or either change the path for the wallpapers in <br /> 
-### ~/.config/wal/pywal.sh
+### ~/.config/wal/pywal.sh <br /> 
 
-## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
-# Create A BACKUP 🙏🙏🙏🙏🙏🙏
+## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/) <br /> 
+# Create A BACKUP 🙏🙏🙏🙏🙏🙏 <br /> 
 
 | What Is It    | What is Used |
 | ------------- | ------------- |
