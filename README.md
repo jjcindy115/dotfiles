@@ -1,8 +1,8 @@
-Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README 
-So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly I Myself Have Experienced The Pain From r/unixporn README
-For The Sake Of That I Will Include Links To All The Resources Possible
+### Listen By No Means I Am Capable Enough Of Creating A Complete Repo With Every Single Detail Even When I Want To I Will Try My Best To No Break Your System With My README 
+### So For The Things Mentioned Below Please Refer To Their Manuals Before Starting Blindly I Myself Have Experienced The Pain From r/unixporn README
+### For The Sake Of That I Will Include Links To All The Resources Possible
 
-# A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
+## A Quick guide for Getting started with bspwm [[PlEASE READ ME]](https://www.instructables.com/Bspwm-Installation-and-Configuration/)
 ## JUST TO CLARIFY I WANTED TO HAVE A COLORFULL WM SO ... See the screenshots before moving furthur
 
 | What Is It    | What is used |
@@ -29,42 +29,36 @@ For The Sake Of That I Will Include Links To All The Resources Possible
 ![screenshot8](https://user-images.githubusercontent.com/108634945/184497384-0f8b9250-b161-48a7-86e0-755889069da1.png)
 ![screenshot9](https://user-images.githubusercontent.com/108634945/184497386-0ae9e802-98e7-48aa-9811-e59d8c87cfa1.png)
 ![screenshot10](https://user-images.githubusercontent.com/108634945/184497387-641cf497-38a8-4a2a-8839-abc6a645cecd.png)
-/184496581-75d228c4-0512-4eda-8ed5-1e63146387e1.png)
 
-
-
-
-
-Ok So after writing like 200 lines I realized I have already uploaded my dots <br />
-anyways <br /><br />
-First Bspwm & sxhkd <br />
+### First Bspwm & sxhkd <br />
 Just copy and paste if you already have a Bspwm & sxhkd configs and or up and running if you don't <br />
 then <br />
-(Note: Do not copy the $) <br />
+### (Note: Do not copy the $) <br />
 $ mkdir ~/.config (only if you don't have one) <br />
 $ mkdir ~/.config/bspwm <br />
 cd into my dotfiles and again cd into bspwm then <br />
 $ cp -r  bspwmrc resize ~/.config/bspwm <br />
 after that <br />
 edit the both of them to your liking mine has some minor changes and stuff if and everything is commented <br />
-[NExt] <br />
-
+### [NExt] <br />
 Install pywal with pip using (pip install pywal)  <br />
 after that cd into my dotsfiles and <br />
 $ cp -r wal ~/.config/ <br />
-[Important] <br />
+## [Important] <br />
 after that run this command <br />
 chmod +x ~/.config/wal/pywal.sh <br />
-If you don't run it than the colors will never change on (super + p) <br />
-[NExt] <br />
+## If you don't run it than the colors will never change on (super + p) <br />
+### [NExt] <br />
 cd again into my dots <br />
-this time for the fish shell IF YOUR using bash which is default please refer to <br />
-https://itsfoss.com/pywal/ <br />
+## this time for the fish shell IF YOUR using bash which is default please refer to <br />
+### [Pywal for bash](https://itsfoss.com/pywal/) <br />
 For the fish shell after installing cd into my dotsfiles and cp -r fish ~/.config/ <br />
 if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
-[NExt] <br />
+### [NExt] <br />
 same For the neofetch after installing cd into my dotsfiles and cp -r neofetch ~/.config/ <br />
-[NExt] <br />
+## #[NExt] <br />
 same For the picom after installing cd into my dotsfiles and cp -r picom  ~/.config/ <br />
 
  
+I Really Hope you Would atleast have a working arch install <br />
+If not I'm sorry I guess ...... 🙇
