@@ -36,60 +36,61 @@
 ![screenshot9](https://user-images.githubusercontent.com/108634945/184497386-0ae9e802-98e7-48aa-9811-e59d8c87cfa1.png)
 ![screenshot10](https://user-images.githubusercontent.com/108634945/184497387-641cf497-38a8-4a2a-8839-abc6a645cecd.png)
 
-### First Bspwm <br />
-Just copy and paste if you already have a Bspwm & sxhkd configs and or up and running if you don't <br />
-### then <br />
-## (Note: Do not copy the $) <br />
-    $ mkdir ~/.config (only if you don't have one)
-    $ mkdir ~/.config/bspwm 
-cd into my dotfiles and again cd into bspwm then <br />
-    $ cp -r  bspwmrc resize ~/.config/bspwm/
+## First Bspwm <br />
+### Just copy and paste if you already have a Bspwm & sxhkd configs and or up and running if you don't <br />
+      mkdir ~/.config (only if you don't have one) 
+    
+      mkdir ~/.config/bspwm 
+### cd into my dotfiles and again cd into bspwm then <br />
+      cp -r  bspwmrc resize ~/.config/bspwm/
 ### (Note: DO NOT FORGET) <br />
-    $ chmod +x ~/.config/bspwm/bspwmrc 
+      chmod +x ~/.config/bspwm/bspwmrc 
 ##  Sxhkd  <br />
 ### Edit it to your liking | Mine has some minor changes and stuff | Everything is commented <br />
-    $ mkdir ~/.config/sxhkd 
-cd into my dotfiles and again cd into sxhkd then <br />
-    $ cp sxhkdrc ~/.config/sxhkd/
+      mkdir ~/.config/sxhkd 
+### cd into my dotfiles and again cd into sxhkd then <br />
+       cp sxhkdrc ~/.config/sxhkd/
 ### (Note: DO NOT FORGET) <br />
-    $ chmod +x ~/.config/sxhkd/sxhkdrc 
+       chmod +x ~/.config/sxhkd/sxhkdrc 
 ## [.xinitrc] <br />
-cd into dotfiles and <br />
-     $ mv .xinitrc ~/
+### cd into dotfiles and <br />
+       mv .xinitrc ~/
 ## [Pywal] <br />
-Install pywal with pip using  <br />
-    $ pip install pywal  
-after that cd into my dotsfiles and <br />
-    $ cp -r wal ~/.config/ 
+### Install pywal with pip using  <br />
+     pip install pywal  
+### after that cd into my dotsfiles and <br />
+     cp -r wal ~/.config/ 
 ## [Important] <br />
-after that run this command 
-    $ chmod +x ~/.config/wal/pywal.sh 
+### after that run this command 
+     chmod +x ~/.config/wal/pywal.sh 
 ### If you don't run it than the colors will never change on (super + p) <br />
 ## [Fish] <br />
-    $ sudo pacman -Syyu fish 
+     sudo pacman -Syyu fish 
 ### this time for the fish shell IF YOUR using bash which is default please refer to Pywal for Bash <br />
-cd again into my dots <br />
-For the fish shell after installing cd into my dotsfiles and <br />
-    $ cp -r fish ~/.config/ 
-if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
+### cd again into my dots <br />
+### For the fish shell after installing cd into my dotsfiles and <br />
+     cp -r fish ~/.config/ 
+### if you don't copy the whole folder than the annoying fish_greeting message and {fish wal command not found} errors will haunt you <br />
 ## [Pywal for Bash] <br />
-Visit This [arcticle](https://itsfoss.com/pywal/) <br />
+### Visit This [arcticle](https://itsfoss.com/pywal/) <br />
 ## [Neofetch] <br />
-    $ sudo pacman -Syyu neofetch 
-same For the neofetch after installing cd into my dotsfiles and <br />
-    $ cp -r neofetch ~/.config/
+     sudo pacman -Syyu neofetch 
+### same For the neofetch after installing cd into my dotsfiles and <br />
+     cp -r neofetch ~/.config/
 ## [Picom] <br />
-    $ paru -S picom-ibhagwan-git 
-same For the picom after installing cd into my dotsfiles and  <br />
-    $ cp -r picom  ~/.config/
+     paru -S picom-ibhagwan-git 
+### same For the picom after installing cd into my dotsfiles and  <br />
+     cp -r picom  ~/.config/
 ## [Firefox] <br />
-For Firefox Firstly get the pywalfox with (pip install pywalfox) then install using <br />
-    $ pip install pywalfox 
-    $ pywalfox install 
-after that go get the [Pywalfox extenstion for Firefox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) <br />
+### For Firefox Firstly get the pywalfox with (pip install pywalfox) then install using <br />
+     pip install pywalfox 
+     
+     pywalfox install 
+### after that go get the [Pywalfox extenstion for Firefox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) <br />
 <br />
-## Last But not Least Press the shortcut (super + p) to check if everything works . :) <br />
+
+### Last But not Least Press the shortcut (super + p) to check if everything works . :) <br />
 
 
-I Really Hope you Would atleast have a working arch install <br />
-If not I'm sorry I guess ...... 🙇
+### I Really Hope you Would atleast have a working arch install <br />
+### If not I'm sorry I guess ...... 🙇
