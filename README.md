@@ -89,7 +89,7 @@
 ### after that go get the [Pywalfox extenstion for Firefox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) <br />
 <br />
 
-### Last But not Least Press the shortcut (super + p) to check if everything works . :) <br />
+### Last But not Least Press the shortcut (super + p) to check if everything works <br />
 
 
 ### I Really Hope you Would atleast have a working arch install <br />
